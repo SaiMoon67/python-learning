@@ -23,7 +23,7 @@ def get_biggest(numbers):
             biggest = n
     return biggest
 
-def get_len_average(numbers):
+def get_len_average(numbers: list[int]):
     x = len(numbers)
     if x == 0:
         return "Ошибка деление на 0"
