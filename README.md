@@ -9,3 +9,4 @@ My journey learning Python from scratch, day by day.
 - day-03 — lists
 - day-04 — functions
 - day-05 — error handling (try/except)
+- day-06 — dictionaries
