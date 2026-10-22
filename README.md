@@ -10,3 +10,4 @@ My journey learning Python from scratch, day by day.
 - day-04 — functions
 - day-05 — error handling (try/except)
 - day-06 — dictionaries
+- day-07 — lists of dicts, dicts of lists
