@@ -15,3 +15,4 @@ My journey learning Python from scratch, day by day.
 - day-09 - json: dump and load
 - day-10 - json: books and search
 - day-11 - tuples and sets
+- day-12 - random, datetime, slices, sorted with key.
