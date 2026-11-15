@@ -18,3 +18,4 @@ My journey learning Python from scratch, day by day.
 - day-12 - random, datetime, slices, sorted with key.
 - day-13 - list comprehensions
 - day-14 - pip and venv
+- day-15 - dict get/items/values, word count
